@@ -1,7 +1,8 @@
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Subin%20Choi&fontSize=50&animation=twinkling)
-![ascii-animator-1765763201940](https://github.com/user-attachments/assets/76945def-d565-4ada-81b6-ba26f8a472d7)
+![ascii-animator-1765868630425](https://github.com/user-attachments/assets/c39f66ff-953f-4d4f-9cdd-779e03e75087)
+
 
 
 
