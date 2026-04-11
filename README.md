@@ -1,5 +1,5 @@
 <div align="center">
-![ascii-animator-1765868630425](https://github.com/user-attachments/assets/c39f66ff-953f-4d4f-9cdd-779e03e75087)
+![ascii-animator-1765868630425](https://github.com/user-attachments/assets/c39f66ff-953f-4d4f-9cdd-779e03e75087)]
 
 
 
